@@ -13,4 +13,4 @@ You can read more about us at our [lab website](https://slhs.utexas.edu/research
 
 ### Resources and tutorials
 * [audiometry](https://github.com/HamiltonLabUT/audiometry) - for plotting audiometric data from the Interacoustics Equinox 2.0 audiometer and Otoaccess software.
-* [Intro jupyter notebooks](https://github.com/HamiltonLabUT/lab_intro_notebooks) - Jupyter notebooks for learning basics of python, MNE-python, STRF-fitting and more. Tutorials are more specific to neuroscience applications in the lab.
+* [lab_intro_notebooks](https://github.com/HamiltonLabUT/lab_intro_notebooks) - Jupyter notebooks for learning basics of python, MNE-python, STRF-fitting and more. Tutorials are more specific to neuroscience applications in the lab.
